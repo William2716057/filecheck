@@ -1,0 +1,14 @@
+{
+  "name": "file-check",
+  "version": "0.0.0",
+  "description": "fileCheck",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  },
+  "eslintConfig": {
+  }
+}
