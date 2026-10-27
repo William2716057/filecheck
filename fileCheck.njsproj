@@ -37,6 +37,9 @@
     <Content Include="server.js" />
     <Content Include="package.json" />
     <Content Include="README.md" />
+    <Content Include="style.css">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="types.js">
       <SubType>Code</SubType>
     </Content>
